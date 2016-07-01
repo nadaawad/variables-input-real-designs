@@ -1,0 +1,79 @@
+Active-HDL 9.1.2353.4205  2016-07-01 03:00:06
+
+Elaboration top modules:
+Verilog Module                tb
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+Verilog Module                                | Library          | Info | Compiler Version         | Compilation Options
+-----------------------------------------------------------------------------------------------------------------------------
+tb                                            | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+top_module                                    | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+main_alu                                      | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+control_unit                                  | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+memP_v2                                       | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+memR                                          | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+memA                                          | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+col_nos                                       | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+multiples_memory                              | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+memX                                          | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+parameters_mem                                | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+P_Emap_8                                      | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+rKold_prev                                    | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+Alu                                           | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+vectorXvector_with_control                    | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+matrix_by_vector_v3_with_control              | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+AP_total                                      | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+vectorXvector_mXv_with_control                | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+division                                      | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+vXc_mul3_add                                  | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+vXc_mul3_sub                                  | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+onetwoeight_Dot_Product_Multiply_with_control | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+N_to_2N_demux                                 | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+onetwoeight_Organizer_with_control_row        | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+multiply                                      | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+InputIEEE_8_23_to_8_23                        | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+FPMultiplier_8_23_8_23_8_23_uid2              | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+OutputIEEE_8_23_to_8_23                       | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+IntMultiplier_UsingDSP_24_24_48_unsigned_uid4 | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+IntAdder_33_f300_uid23                        | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+IntAdder_42_f300_uid15                        | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+TwoxOne_mux                                   | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+onetwoeightXonetwoeight_Adder_with_start      | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+adder_subtractor_with_control_with_start      | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+sixtyfourXsixtyfour_Adder_with_start          | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+adder_subtractor_with_start                   | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+fpadd                                         | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+fpalign                                       | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+mantadd                                       | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+normlize                                      | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+rounder                                       | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+special                                       | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+final1                                        | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+thirtytwoXthirtytwo_Adder_with_start          | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+sixteenXsixteen_Adder_with_start              | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+EightxEight_Adder_with_start                  | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+decoder_with_control                          | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+row_by_vector_with_control                    | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+eight_Dot_Product_Multiply_with_control_row   | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+Eight_Organizer_with_control_row              | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+multiples_fifo                                | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+EightxEight_Adder_with_start_2                | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+FP_div                                        | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+div_nr_wsticky                                | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+a_s                                           | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+vXc_add_8_delay                               | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+delay                                         | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+adder_subtractor                              | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+vXc_add_8                                     | 128_input_design |      | 9.1.2353.4205  (Windows) | -l 128_input_design -O2
+-----------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------
+Library                                       | Comment
+-----------------------------------------------------------------------------------------------------------------------------
+128_input_design                              | None
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -advdataflow -O5 +access +r +m+tb tb
+

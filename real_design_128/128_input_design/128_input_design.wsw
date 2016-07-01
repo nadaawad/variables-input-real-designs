@@ -1,0 +1,15 @@
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\128_input_design\src\32x32_adder_with_start.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\128_input_design\src\top_module.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\128_input_design\src\vectorxvector_mxv_with_control.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\128_input_design\src\vectorxvector_with_control.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\128_input_design\src\128_dot_product_with_control.v|]
+TemplateId=2
+[OPENDOC|Aldec.WaveFormASDB.7|.\128_input_design\src\wave.asdb|]
+TemplateId=0
+ActiveDocument=1
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\128_input_design\src/control_unit.v|]
+TemplateId=2

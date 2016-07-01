@@ -1,0 +1,12 @@
+[Version]
+Version=9.1
+[Designs]
+128_input_design=.\128_input_design\128_input_design.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+128_input_design=1

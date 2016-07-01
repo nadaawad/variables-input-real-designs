@@ -1,0 +1,119 @@
+MESSAGE "Pass 1. Scanning modules hierarchy."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+BEGINPROGRESS Compiling...
+UPDATEPROGRESS 35
+MESSAGE_SP VCP2113 "Module control_unit found in current working library."
+MESSAGE_SP VCP2113 "Module memX found in current working library."
+MESSAGE_SP VCP2113 "Module parameters_mem found in current working library."
+MESSAGE_SP VCP2113 "Module multiples_memory found in current working library."
+MESSAGE_SP VCP2113 "Module memA found in current working library."
+MESSAGE_SP VCP2113 "Module col_nos found in current working library."
+MESSAGE_SP VCP2113 "Module main_alu found in current working library."
+MESSAGE_SP VCP2113 "Module rKold_prev found in current working library."
+MESSAGE_SP VCP2113 "Module Alu found in current working library."
+MESSAGE_SP VCP2113 "Module P_Emap_8 found in current working library."
+MESSAGE_SP VCP2113 "Module memR found in current working library."
+MESSAGE_SP VCP2113 "Module memP_v2 found in current working library."
+MESSAGE_SP VCP2113 "Module rKold_prev found in current working library."
+MESSAGE_SP VCP2113 "Module Alu found in current working library."
+MESSAGE_SP VCP2113 "Module vectorXvector_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module matrix_by_vector_v3_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module AP_total found in current working library."
+MESSAGE_SP VCP2113 "Module vectorXvector_mXv_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module division found in current working library."
+MESSAGE_SP VCP2113 "Module vXc_mul3_add found in current working library."
+MESSAGE_SP VCP2113 "Module vXc_mul3_sub found in current working library."
+MESSAGE_SP VCP2113 "Module vectorXvector_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module onetwoeight_Dot_Product_Multiply_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module vXc_mul3_add found in current working library."
+MESSAGE_SP VCP2113 "Module vXc_add_8_delay found in current working library."
+MESSAGE_SP VCP2113 "Module vXc_mul3_sub found in current working library."
+MESSAGE_SP VCP2113 "Module vXc_add_8 found in current working library."
+MESSAGE_SP VCP2113 "Module matrix_by_vector_v3_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module decoder_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module vectorXvector_mXv_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module AP_total found in current working library."
+MESSAGE_SP VCP2113 "Module division found in current working library."
+MESSAGE_SP VCP2113 "Module FP_div found in current working library."
+MESSAGE_SP VCP2113 "Module onetwoeight_Dot_Product_Multiply_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module N_to_2N_demux found in current working library."
+MESSAGE_SP VCP2113 "Module onetwoeight_Organizer_with_control_row found in current working library."
+MESSAGE_SP VCP2113 "Module decoder_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module vXc_add_8 found in current working library."
+MESSAGE_SP VCP2113 "Module FP_div found in current working library."
+MESSAGE_SP VCP2113 "Module div_nr_wsticky found in current working library."
+MESSAGE_SP VCP2113 "Module vXc_add_8_delay found in current working library."
+MESSAGE_SP VCP2113 "Module onetwoeight_Organizer_with_control_row found in current working library."
+MESSAGE_SP VCP2113 "Module TwoxOne_mux found in current working library."
+MESSAGE_SP VCP2113 "Module onetwoeightXonetwoeight_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module adder_subtractor_with_control_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module div_nr_wsticky found in current working library."
+MESSAGE_SP VCP2113 "Module N_to_2N_demux found in current working library."
+MESSAGE_SP VCP2113 "Module TwoxOne_mux found in current working library."
+MESSAGE_SP VCP2113 "Module onetwoeightXonetwoeight_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module sixtyfourXsixtyfour_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module adder_subtractor_with_control_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module fpadd found in current working library."
+MESSAGE_SP VCP2113 "Module sixtyfourXsixtyfour_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module thirtytwoXthirtytwo_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module fpadd found in current working library."
+MESSAGE_SP VCP2113 "Module fpalign found in current working library."
+MESSAGE_SP VCP2113 "Module mantadd found in current working library."
+MESSAGE_SP VCP2113 "Module normlize found in current working library."
+MESSAGE_SP VCP2113 "Module rounder found in current working library."
+MESSAGE_SP VCP2113 "Module special found in current working library."
+MESSAGE_SP VCP2113 "Module final1 found in current working library."
+MESSAGE_SP VCP2113 "Module rounder found in current working library."
+MESSAGE_SP VCP2113 "Module thirtytwoXthirtytwo_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module sixteenXsixteen_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module normlize found in current working library."
+MESSAGE_SP VCP2113 "Module fpalign found in current working library."
+MESSAGE_SP VCP2113 "Module special found in current working library."
+MESSAGE_SP VCP2113 "Module final1 found in current working library."
+MESSAGE_SP VCP2113 "Module mantadd found in current working library."
+MESSAGE_SP VCP2113 "Module sixteenXsixteen_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module EightxEight_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module EightxEight_Adder_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module adder_subtractor_with_start found in current working library."
+MESSAGE_SP VCP2113 "Module adder_subtractor_with_start found in current working library."
+MESSAGE "Pass 2. Processing instantiations."
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol outsider_read_now has not been declared in module top_module." "E:/4th computer/graduation projects new design/variable inputs designs/real_design_128/128_input_design/128_input_design/src/top_module.v" 104 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol memoryP_write_enable has not been declared in module top_module." "E:/4th computer/graduation projects new design/variable inputs designs/real_design_128/128_input_design/128_input_design/src/top_module.v" 111 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol memoryR_write_enable has not been declared in module top_module." "E:/4th computer/graduation projects new design/variable inputs designs/real_design_128/128_input_design/128_input_design/src/top_module.v" 111 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol memoryX_write_enable has not been declared in module top_module." "E:/4th computer/graduation projects new design/variable inputs designs/real_design_128/128_input_design/128_input_design/src/top_module.v" 111 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol finishP_v2 has not been declared in module top_module." "E:/4th computer/graduation projects new design/variable inputs designs/real_design_128/128_input_design/128_input_design/src/top_module.v" 131 1
+UPDATEPROGRESS 45
+MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 80
+MESSAGE "Running Optimizer."
+MESSAGE "ELB/DAG code generating."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+MESSAGE_SP VCP2113 "Module adder_subtractor_with_control found in current working library."
+MESSAGE_SP VCP2113 "Module decoder found in current working library."
+MESSAGE_SP VCP2113 "Module IntAdder_27_f180_uid7 found in current working library."
+MESSAGE_SP VCP2113 "Module IntAdder_34_f180_uid18 found in current working library."
+MESSAGE_SP VCP2113 "Module memP found in current working library."
+MESSAGE_SP VCP2113 "Module tb found in current working library."
+UPDATEPROGRESS 81
+UPDATEPROGRESS 82
+UPDATEPROGRESS 83
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 99
+MESSAGE "$root top modules: adder_subtractor_with_control decoder IntAdder_27_f180_uid7 IntAdder_34_f180_uid18 memP tb."
+ENDPROGRESS Compiling...
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."
+MESSAGE "done"
