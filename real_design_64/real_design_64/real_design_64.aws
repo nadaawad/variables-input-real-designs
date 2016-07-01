@@ -1,0 +1,12 @@
+[Version]
+Version=9.1
+[Designs]
+real_design_64=.\real_design_64\real_design_64.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+real_design_64=1
